@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BRUNO PARIS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BRUNO PARIS\\.nuget\\packages"
+    ]
+  }
+}

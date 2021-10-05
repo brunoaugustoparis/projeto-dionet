@@ -1,0 +1,16 @@
+C:\Users\BRUNO PARIS\DIONET\bin\Debug\net5.0\DIONET.exe
+C:\Users\BRUNO PARIS\DIONET\bin\Debug\net5.0\DIONET.deps.json
+C:\Users\BRUNO PARIS\DIONET\bin\Debug\net5.0\DIONET.runtimeconfig.json
+C:\Users\BRUNO PARIS\DIONET\bin\Debug\net5.0\DIONET.runtimeconfig.dev.json
+C:\Users\BRUNO PARIS\DIONET\bin\Debug\net5.0\DIONET.dll
+C:\Users\BRUNO PARIS\DIONET\bin\Debug\net5.0\ref\DIONET.dll
+C:\Users\BRUNO PARIS\DIONET\bin\Debug\net5.0\DIONET.pdb
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\DIONET.csprojAssemblyReference.cache
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\DIONET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\DIONET.AssemblyInfoInputs.cache
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\DIONET.AssemblyInfo.cs
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\DIONET.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\DIONET.dll
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\ref\DIONET.dll
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\DIONET.pdb
+C:\Users\BRUNO PARIS\DIONET\obj\Debug\net5.0\DIONET.genruntimeconfig.cache
